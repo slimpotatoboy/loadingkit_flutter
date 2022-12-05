@@ -1,6 +1,6 @@
-# Flutter Loadingkit 🚀
+# Flutter Loadingkit ↻
 
-[![GitHub stars](https://img.shields.io/github/stars/slimpotatoboy/flutter_loadingkit.svg?style=social)](https://github.com/slimpotatoboy/flutter_loadingkit)
+[![GitHub stars](https://img.shields.io/github/stars/slimpotatoboy/loadingkit_flutter.svg?style=social)](https://github.com/slimpotatoboy/loadingkit_flutter)
 
 [![Follow Twitter](https://img.shields.io/twitter/follow/slimpotatoboy?style=social)](https://twitter.com/intent/follow?screen_name=slimpotatoboy)
 
@@ -8,7 +8,7 @@ A simple linear loading flutter package
 
 ## Usage
 
-To use this plugin, add `flutter_loadingkit` as a [dependency in your pubspec.yaml file](https://flutter.dev/docs/development/platform-integration/platform-channels) 🔗.
+To use this plugin, add `loadingkit_flutter` as a [dependency in your pubspec.yaml file](https://flutter.dev/docs/development/platform-integration/platform-channels) 🔗.
 
 You are good to go now 👍
 
@@ -37,4 +37,4 @@ class HomeScreen extends StatelessWidget {
 
 **New Contributors are welcomed.**
 
-Feel Free to request any missing features or report issues [here](https://github.com/slimpotatoboy/flutter_loadingkit/issues) 🔗.
+Feel Free to request any missing features or report issues [here](https://github.com/slimpotatoboy/loadingkit_flutter/issues) 🔗.

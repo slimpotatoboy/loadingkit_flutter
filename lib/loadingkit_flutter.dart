@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class FlutterLoadingKit extends StatelessWidget {
-  const FlutterLoadingKit({
+class FlutterLoading extends StatelessWidget {
+  const FlutterLoading({
     super.key,
     required this.isLoading,
     required this.child,
